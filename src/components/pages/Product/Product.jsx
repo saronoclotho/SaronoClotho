@@ -9,6 +9,7 @@ import {heroObj1, heroObj2, heroObj3, heroObj4, heroObj5, heroObj6} from "./Data
 function Product() {
     return (
             <div className="container-fluid">
+
                 <div className="row">
                     <InitSection />
                 </div>

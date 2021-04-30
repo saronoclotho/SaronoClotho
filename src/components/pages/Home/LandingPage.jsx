@@ -35,19 +35,21 @@ function LadingPage() {
                     <div className="col-md-7 lp-custom-div-black">
                         <div className="row lp-header3-container">
                                 <p className="lp-header3-style">
-                                    Hello
+                                    We provide a novel set of digital tools that 
+                                    aim to redefine the online shopping experience of 
+                                    apparel.
                                 </p>
                         </div>
                         <div className="row lp-header4-container">
                             <p className="lp-header4-style">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-                                feugiat egestas ante, nec tristique lectus. Proin eleifend ligula id
-                                bibendum sodales. Curabitur luctus interdum velit, 
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-                                feugiat egestas ante, nec tristique lectus. Proin eleifend ligula id
-                                bibendum sodales. Curabitur luctus interdum velit, 
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-                                feugiat egestas ante, nec tristique lectus. Proin eleifend ligula id
+                                SaronoClotho employs 3D scanning technlogy 
+                                combined with advanced cloth simulation 
+                                algorithms to provide personalised sizing
+                                recommendations for the clothes of different
+                                clothing brands and manufacturers. This allows
+                                our users to shop from the websites of different
+                                retailers while being confident that the size that they have
+                                chosen is optimized to their body shape and needs.
                             </p>
                         </div>
 

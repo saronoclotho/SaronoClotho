@@ -67,6 +67,7 @@
     height: auto;
     text-align: center;
     margin-left: 0.25em;
+    margin-right: 1em;
     margin-top: 3em;
 }
 
@@ -84,7 +85,7 @@
     /* border: 1px solid;
     border-color: white; */
     margin-left: 0.25em;
-    margin-right: 1em;
+    margin-right: 10em;
 }
 
 .lp-header4-style
