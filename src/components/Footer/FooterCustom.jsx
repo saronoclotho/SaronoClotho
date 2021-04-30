@@ -3,9 +3,6 @@ import {Link} from 'react-router-dom'
 
 import { FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa';
 
-
-
-import Logo from '../Logo'
 import "./FooterCustom.css"
 import Gmaillto from './Gmailto';
 

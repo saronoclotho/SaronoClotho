@@ -42,7 +42,7 @@ function LadingPage() {
                         </div>
                         <div className="row lp-header4-container">
                             <p className="lp-header4-style">
-                                SaronoClotho employs 3D scanning technlogy 
+                                SaronoClotho employs 3D scanning technology 
                                 combined with advanced cloth simulation 
                                 algorithms to provide personalised sizing
                                 recommendations for the clothes of different
