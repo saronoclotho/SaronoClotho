@@ -1,0 +1,104 @@
+.lp-custom-div-black
+{
+    /* border: 1px solid;
+    border-color: white; */
+    background-color:black;
+    padding-left: 2em;
+    padding-bottom: 2em;
+    min-height: 50vh;
+}
+
+.lp-text-container
+{
+    /* border: 1px solid;
+    border-color: white; */
+    margin-top: 10em;
+    text-align: center;
+    display: inline-block;
+}
+
+.lp-header1-style
+{
+    /* border: 1px solid;
+    border-color: white; */
+    margin: 0;
+    color: white;
+    font-size: 3em;
+    font-family: 'Lobster Two', cursive;
+    font-style: italic;
+    display: inline;
+}
+
+
+.lp-header2-style
+{
+    /* border: 1px solid;
+    border-color: white; */
+    margin: 0;
+    color: white;
+    font-size: 1.52em;
+    font-family: 'Lobster Two', cursive;
+    font-style: italic;
+    text-align: left; 
+    display: inline;
+}
+
+
+.lp-img-container
+{
+    min-height: 100%;
+    min-height: 100%; 
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.lp-img-style
+{
+    min-width: 100%;
+    min-height: 100%;
+    vertical-align: middle; 
+}
+
+.lp-header3-container
+{
+    /* border: 1px solid;
+    border-color: white; */
+    height: auto;
+    text-align: center;
+    margin-left: 0.25em;
+    margin-top: 3em;
+}
+
+.lp-header3-style
+{
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-top: 0.5em;
+}
+
+.lp-header4-container
+{
+    /* border: 1px solid;
+    border-color: white; */
+    margin-left: 0.25em;
+    margin-right: 1em;
+}
+
+.lp-header4-style
+{
+    color: white;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-top: 0.5em;
+} 
+
+.lp-btn-container 
+{
+    margin-left: 0.25em;
+}
+
+

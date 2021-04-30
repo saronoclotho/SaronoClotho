@@ -1,0 +1,18 @@
+.main2 {
+    background-color: black;
+    display: table;
+}
+
+.inner2 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.dots
+{
+    border: dotted 6px;
+    border-color: rgb(66, 66, 66);
+    border-bottom: none;
+    width: 4%;
+    
+}

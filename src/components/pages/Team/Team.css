@@ -1,0 +1,14 @@
+.team-overall-container 
+{
+    /* border: 1px solid;
+    border-color:black; */
+    margin: 2em 1em;
+}
+
+.team-member-container
+{
+    /* border: 1px solid;
+    border-color:black; */
+    margin: 2em;
+    overflow: auto;
+}
