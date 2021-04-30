@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SaronoClotho/static/css/main.5d4ec0ed.chunk.css",
+    "main.js": "/SaronoClotho/static/js/main.0d1487d5.chunk.js",
+    "main.js.map": "/SaronoClotho/static/js/main.0d1487d5.chunk.js.map",
+    "runtime-main.js": "/SaronoClotho/static/js/runtime-main.62e9260e.js",
+    "runtime-main.js.map": "/SaronoClotho/static/js/runtime-main.62e9260e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/SaronoClotho/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b944d881.chunk.js": "/SaronoClotho/static/js/2.b944d881.chunk.js",
+    "static/js/2.b944d881.chunk.js.map": "/SaronoClotho/static/js/2.b944d881.chunk.js.map",
+    "index.html": "/SaronoClotho/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/SaronoClotho/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.5d4ec0ed.chunk.css.map": "/SaronoClotho/static/css/main.5d4ec0ed.chunk.css.map",
+    "static/js/2.b944d881.chunk.js.LICENSE.txt": "/SaronoClotho/static/js/2.b944d881.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e9260e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b944d881.chunk.js",
+    "static/css/main.5d4ec0ed.chunk.css",
+    "static/js/main.0d1487d5.chunk.js"
+  ]
+}
