@@ -35,7 +35,7 @@ function LadingPage() {
                     <div className="col-md-7 lp-custom-div-black">
                         <div className="row lp-header3-container">
                                 <p className="lp-header3-style">
-                                    Some fancy text
+                                    Hello
                                 </p>
                         </div>
                         <div className="row lp-header4-container">
